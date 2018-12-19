@@ -1,0 +1,180 @@
+{
+	"groups": [
+		{
+			"keys": "bg1,bg2,bg3,bg4,bg5,wait1,wait2,wait3,wait4,wait5,wait6,kick1,kick2,kick3,kick4,walk1,walk2,walk3,walk4,walk5,stand1,stand2,stand3,stand4,stand5,victory_mp3,grow_mp3,score_mp3,kick_mp3,fall_mp3,death_mp3,click_mp3,platform,stick",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg/1.jpg",
+			"type": "image",
+			"name": "bg1"
+		},
+		{
+			"url": "assets/bg/2.jpg",
+			"type": "image",
+			"name": "bg2"
+		},
+		{
+			"url": "assets/bg/3.jpg",
+			"type": "image",
+			"name": "bg3"
+		},
+		{
+			"url": "assets/bg/4.jpg",
+			"type": "image",
+			"name": "bg4"
+		},
+		{
+			"url": "assets/bg/5.jpg",
+			"type": "image",
+			"name": "bg5"
+		},
+		{
+			"url": "assets/wait/1.png",
+			"type": "image",
+			"name": "wait1"
+		},
+		{
+			"url": "assets/wait/2.png",
+			"type": "image",
+			"name": "wait2"
+		},
+		{
+			"url": "assets/wait/3.png",
+			"type": "image",
+			"name": "wait3"
+		},
+		{
+			"url": "assets/wait/4.png",
+			"type": "image",
+			"name": "wait4"
+		},
+		{
+			"url": "assets/wait/5.png",
+			"type": "image",
+			"name": "wait5"
+		},
+		{
+			"url": "assets/wait/6.png",
+			"type": "image",
+			"name": "wait6"
+		},
+		{
+			"url": "assets/kick/1.png",
+			"type": "image",
+			"name": "kick1"
+		},
+		{
+			"url": "assets/kick/2.png",
+			"type": "image",
+			"name": "kick2"
+		},
+		{
+			"url": "assets/kick/3.png",
+			"type": "image",
+			"name": "kick3"
+		},
+		{
+			"url": "assets/kick/4.png",
+			"type": "image",
+			"name": "kick4"
+		},
+		{
+			"url": "assets/walk/1.png",
+			"type": "image",
+			"name": "walk1"
+		},
+		{
+			"url": "assets/walk/2.png",
+			"type": "image",
+			"name": "walk2"
+		},
+		{
+			"url": "assets/walk/3.png",
+			"type": "image",
+			"name": "walk3"
+		},
+		{
+			"url": "assets/walk/4.png",
+			"type": "image",
+			"name": "walk4"
+		},
+		{
+			"url": "assets/walk/5.png",
+			"type": "image",
+			"name": "walk5"
+		},
+		{
+			"url": "assets/stand/1.png",
+			"type": "image",
+			"name": "stand1"
+		},
+		{
+			"url": "assets/stand/2.png",
+			"type": "image",
+			"name": "stand2"
+		},
+		{
+			"url": "assets/stand/3.png",
+			"type": "image",
+			"name": "stand3"
+		},
+		{
+			"url": "assets/stand/4.png",
+			"type": "image",
+			"name": "stand4"
+		},
+		{
+			"url": "assets/stand/5.png",
+			"type": "image",
+			"name": "stand5"
+		},
+		{
+			"url": "assets/sounds/victory.mp3",
+			"type": "sound",
+			"name": "victory_mp3"
+		},
+		{
+			"url": "assets/sounds/grow.mp3",
+			"type": "sound",
+			"name": "grow_mp3"
+		},
+		{
+			"url": "assets/sounds/score.mp3",
+			"type": "sound",
+			"name": "score_mp3"
+		},
+		{
+			"url": "assets/sounds/kick.mp3",
+			"type": "sound",
+			"name": "kick_mp3"
+		},
+		{
+			"url": "assets/sounds/fall.mp3",
+			"type": "sound",
+			"name": "fall_mp3"
+		},
+		{
+			"url": "assets/sounds/death.mp3",
+			"type": "sound",
+			"name": "death_mp3"
+		},
+		{
+			"url": "assets/sounds/click.mp3",
+			"type": "sound",
+			"name": "click_mp3"
+		},
+		{
+			"url": "assets/platform/1.png",
+			"type": "image",
+			"name": "platform"
+		},
+		{
+			"url": "assets/stick/1.png",
+			"type": "image",
+			"name": "stick"
+		}
+	]
+}
